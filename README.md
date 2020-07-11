@@ -9,11 +9,6 @@ Je me suis formé seul, via des sites tel qu'OpenClassRoom, Udemy. Je suis à l'
 
 Je vous propose sur mon github de suivre mes différents travaux et mon apprentissage.
 
-### Me contacter:
-
-#### mon profil linkedin: 
-<a href="https://www.linkedin.com/in/yann-victor/ "> Yann Victor </a>
-
 #### English version
 ### About me:
 
@@ -22,7 +17,7 @@ I trained myself, via sites such as OpenClassRoom, Udemy. I am comfortable with 
 
 I suggest you on my github to follow my different work and my learning.
 
-### Contact me:
+### Me contacter / Contact me:
 
 #### my linkedin profile:
 <a href="https://www.linkedin.com/in/yann-victor/ "> Yann Victor(in french) </a>
