@@ -6,6 +6,7 @@
 
 Je m'appelle Yann VICTOR, passionné par le développement web depuis des années. 
 Je me suis formé seul, via des sites tel qu'OpenClassRoom, Udemy. Je suis à l'aise avec les technologies tel que Html, Css, Php, Mysql, javascript (dont jQuery, vue, nodeJs).
+j'aime apprendre de nouvelles choses concernant le développement web ou de nouvelles façon de travailler.
 
 Je vous propose sur mon github de suivre mes différents travaux et mon apprentissage.
 
@@ -16,6 +17,7 @@ Je vous propose sur mon github de suivre mes différents travaux et mon apprenti
 
 My name is Yann VICTOR, passionnate about web development for years.
 I trained myself, via sites such as OpenClassRoom, Udemy. I am comfortable with technologies such as Html, Css, Php, Mysql, javascript (including jQuery, vue, nodeJs).
+I like to learn new things about web development or new ways of working.
 
 I suggest you on my github to follow my different work and my learning.
 
